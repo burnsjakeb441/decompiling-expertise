@@ -8,7 +8,7 @@ I'm studying the cognitive psychology of expertise in reverse engineering: how p
 
 ## Abstract
 
-Decompiling Expertise is a two-year independent study of reverse engineering: learning to read compiled x86-64 code, and studying how that skill works. The technical track builds an analysis lab, a reference of compiler idioms, malware analysis reports and detection rules. The research track asks how reverse engineers understand binaries. A content analysis of public solutions to Mandiant's Flare-On reverse-engineering challenges, written by professional analysts, experienced community solvers and newer solvers, tests whether strategies differ by expertise and challenge difficulty, using program comprehension theory and a codebook with measured inter-rater reliability. A single-case experiment on my own skill acquisition tests whether retrieval practice outperforms rereading for learning compiler idioms, and tracks how my analysis strategies change over time. The project combines reverse engineering with methods from cognitive psychology.
+Decompiling Expertise is a two-year independent study of reverse engineering: learning to read compiled x86-64 code, and studying how that skill works. The technical track builds an analysis lab, a reference of compiler idioms, malware analysis reports and detection rules. The research track asks how reverse engineers understand binaries. A content analysis of public solutions to Mandiant's Flare-On reverse-engineering challenges, written by professional analysts, experienced community solvers and newer solvers, tests whether strategies differ by expertise and challenge difficulty, using program comprehension theory and a codebook with measured inter-rater reliability. A single-case experiment on my own skill acquisition tests whether retrieval practice outperforms rereading for learning compiler idioms, and tracks how my analysis strategies change over time. The project combines reverse engineering with methods from cognitive psychology, and draws on educational psychology to suggest how reverse-engineering training could become faster and more accessible.
 
 ## Roadmap
 
@@ -49,6 +49,12 @@ Each phase ends with a deliverable and an exit gate, a practical demonstration o
 - Write-ups by others are linked and cited, never republished.
 - Vulnerability work produces root-cause analyses, not working exploits for unpatched software; anything new goes through coordinated disclosure.
 - Research involving people follows my university's IRB guidance.
+
+## About
+
+I'm a psychology major with a computer science minor, graduating in December 2028. This project combines my interests in cognitive psychology and reverse engineering, and it's both my independent study and the foundation of my psychology capstone.
+
+The roadmap and this README were developed through reading, published research and AI-assisted planning and drafting; the analysis, code, reports and research writing are my own.
 
 ## License
 
