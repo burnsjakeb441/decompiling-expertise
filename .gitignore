@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Never commit samples or raw binaries
+samples/
+*.bin
+
+# Python (Phase 2 onward)
+__pycache__/
+*.pyc
+.venv/
