@@ -25,7 +25,9 @@ Each phase ends with a deliverable and an exit gate, a practical demonstration o
 
 Research design
 Main study: a content analysis of public Flare-On write-ups, comparing the strategies of professional analysts, experienced solvers and newer solvers, coded with a theory-based codebook and checked with a second coder (Cohen's kappa).
+
 Companion study: a single-case experiment on my own learning, comparing retrieval practice and rereading for recognizing compiler idioms, with a control set and delayed retention tests.
+
 Repository layout
 Folder	Contents
 docs/	Compiler Idiom Atlas, feature codebook, reports and papers
