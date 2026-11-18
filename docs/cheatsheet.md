@@ -46,7 +46,7 @@ objdump -d -M intel file: disassemble a program into Intel-syntax assembly
 Git:
 
 git status / git pull
-git add file → git commit -m "message" → git push
+git add file → git commit -m "message" → git push → git add . to add all
 
 Inspecting binaries:
 
